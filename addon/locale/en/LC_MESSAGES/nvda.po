@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-09 22:07+0700\n"
-"PO-Revision-Date: 2026-05-31 12:42+0700\n"
+"POT-Creation-Date: 2026-06-15 13:39+0700\n"
+"PO-Revision-Date: 2026-06-15 14:23+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -18,508 +18,198 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.9\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:49
-msgid "Necesita reiniciar NVDA para aplicar las actualizaciones."
-msgstr "You need to restart NVDA to apply the updates."
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:50
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:183
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\hilos.py⁩:80
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\hilos.py⁩:99
-msgid "Información"
-msgstr "Information"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:76
-#, python-brace-format
-msgid "Se encontraron {} actualizaciones."
-msgstr "{} updates found."
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:76
-msgid "Se encontró una actualización."
-msgstr "An update was found."
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:79
-#, python-brace-format
-msgid ""
-"\n"
-"- NVDA.ES ({}): {}"
-msgstr ""
-"\n"
-"- NVDA.ES ({}): {}"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:81
-#, python-brace-format
-msgid ""
-"\n"
-"- Tienda Oficial ({}): {}"
-msgstr ""
-"\n"
-"- Official Store ({}): {}"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:82
-msgid ""
-"\n"
-"\n"
-"Ejecute Buscar actualizaciones de complementos."
-msgstr ""
-"\n"
-"\n"
-"Run Check for plugin updates."
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:83
-msgid "Tienda NVDA: Actualizaciones"
-msgstr "NVDA Store: Updates"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:109
-msgid "No se pudieron cargar las librerías necesarias para la Tienda"
-msgstr "The necessary libraries for the Store could not be loaded"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:125
-msgid "Listado de complementos NVDA.ES"
-msgstr "List of NVDA.ES add-ons"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:127
-msgid "Buscar actualizaciones NVDA.ES"
-msgstr "Check for NVDA.ES updates"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:129
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:269
-msgid "Tienda NVDA.ES"
-msgstr "NVDA.ES Store"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:133
-msgid "Listado de complementos oficiales"
-msgstr "List of official add-ons"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:135
-msgid "Buscar actualizaciones oficiales"
-msgstr "Check for official updates"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:137
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:293
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:34
-msgid "Tienda Oficial NVDA"
-msgstr "NVDA Official Store"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:141
-msgid "Tienda Unificada (Todas las fuentes)"
-msgstr "Unified Store (All sources)"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:146
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:233
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:139
-msgid "Empaquetador de complementos"
-msgstr "Addon Packager"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:150
-msgid "Documentación del complemento"
-msgstr "Addon Documentation"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:153
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:201
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:205
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:209
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:213
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:217
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:260
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:148
-msgid "Tienda de Complementos NVDA"
-msgstr "NVDA add-ons Store"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:155
-msgid "Inicio del complemento cancelado."
-msgstr "Addon start canceled."
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:197
-msgid "Ya hay una instancia de la Tienda NVDA abierta."
-msgstr "An instance of the NVDA.ES Store is already open."
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:201
-msgid "Muestra la ventana con todos los complementos de NVDA.ES"
-msgstr "Shows the window with all NVDA.ES add-ons"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:205
-msgid "Busca actualizaciones de los complementos instalados en NVDA.ES"
-msgstr "Check for updates to installed add-ons on NVDA.ES"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:209
-msgid "Muestra la ventana con todos los complementos de la tienda oficial"
-msgstr "Shows the window with all the add-ons from the official store"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:213
-msgid "Busca actualizaciones de los complementos oficiales"
-msgstr "Check for official add-on updates"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:217
-msgid "Muestra la tienda unificada con todas las fuentes de complementos"
-msgstr "Show the unified store with all add-on sources"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:230
-msgid "No hay complementos instalados."
-msgstr "There are no add-ons installed."
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:233
-msgid "Seleccione un complemento para empaquetar:"
-msgstr "Select a add-on to package:"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:237
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:159
-msgid "Seleccione un directorio para guardar:"
-msgstr "Select a directory to save:"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:251
-msgid ""
-"El complemento falló al iniciar NVDA.\n"
-"Reinice NVDA para intentar solucionar el problema."
-msgstr ""
-"The add-on failed when starting NVDA.\n"
-"Restart NVDA to try to fix the problem."
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:275
-msgid "Seleccione un servidor de complementos"
-msgstr "Select a add-on server"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:283
-msgid "&Gestionar Servidores de complementos"
-msgstr "&Manage add-on Servers"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:299
-msgid "Habilitar tienda oficial de NVDA"
-msgstr "Enable official NVDA store"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:304
-msgid "Permitir complementos incompatibles de la tienda oficial"
-msgstr "Allow incompatible add-ons from the official store"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:314
-msgid "Actualizaciones"
-msgstr "Updates"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:320
-msgid "Activar comprobación automática de actualizaciones"
-msgstr "Activate automatic checking for updates"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:327
-msgid "Tiempo para comprobar actualizaciones:"
-msgstr "Time to check for updates:"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:339
-msgid "Incluir actualizaciones de la tienda oficial"
-msgstr "Include updates from the official store"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:349
-msgid "Traducción"
-msgstr "Translation"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:355
-msgid "Activar traductor para descripciones"
-msgstr "Activate translator for descriptions"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:362
-msgid "Idioma para traducir descripciones:"
-msgstr "Language to translate descriptions:"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:379
-msgid "Opciones Generales"
-msgstr "General Options"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:385
-msgid "Ordenar complementos alfabéticamente"
-msgstr "Sort plugins alphabetically"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:390
-msgid "Instalar complementos después de descargar"
-msgstr "Install add-on after downloading"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:395
-msgid "Instalar en silencio (pide reiniciar al finalizar)"
-msgstr "Install silently (asks to reboot upon completion)"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:400
-msgid "Habilitar caché de servidores (Mejora la velocidad de carga)"
-msgstr "Enable server cache (Improves loading speed)"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:407
-msgid "Actualizar caché cada:"
-msgstr "Update cache every:"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:419
-msgid "Usar caché para traducciones (Mejora el rendimiento)"
-msgstr "Use cache for translations (Improves performance)"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:424
-msgid "Habilitar modo offline (Caché de listas de la tienda)"
-msgstr "Enable offline mode (Store List Cache)"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:429
-msgid "&Crear Backup de complementos"
-msgstr "&Create add-on Backup"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:430
-msgid "&Restaurar desde Backup"
-msgstr "&Restore from Backup"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:444
-msgid "Complementos instalados que hay en el servidor:"
-msgstr "Installed add-ons on the server:"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:459
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:564
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:610
-msgid "No se pudo tener acceso al servidor"
-msgstr "Could not access server"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:463
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:608
-msgid "Sin complementos compatibles"
-msgstr "No supported add-ons"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:473
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:623
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:636
-msgid "Descartar actualizaciones"
-msgstr "Discard updates"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:621
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:401
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:486
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:293
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:417
-#, python-brace-format
-msgid "Canal {}"
-msgstr "Canal {}"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:653
-msgid ""
-"Ya hay una instancia de la Tienda NVDA abierta.\n"
-"\n"
-"Para gestionar los servidores es necesario que la Tienda este cerrada."
-msgstr ""
-"An instance of the NVDA.ES Store is already open.\n"
-"\n"
-"To manage the servers it is necessary that the Store is closed."
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:674
-msgid "Guardar copia de seguridad de complementos"
-msgstr "Save add-on backup"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:685
-#, python-brace-format
-msgid "Copia de seguridad guardada con éxito en: {}"
-msgstr "Backup successfully saved to: {}"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:687
-#, python-brace-format
-msgid "Error al crear la copia de seguridad: {}"
-msgstr "Error creating backup: {}"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:692
-msgid "Seleccionar archivo de copia de seguridad"
-msgstr "Select backup file"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:706
-msgid "El archivo seleccionado no es una copia de seguridad válida."
-msgstr "The selected file is not a valid backup."
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:709
-msgid ""
-"¿Desea restaurar los complementos desde el archivo seleccionado? Esto abrirá el asistente de instalación por lotes."
-msgstr "Do you want to restore the add-ons from the selected file? This will open the batch installation wizard."
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:710
-msgid "Restaurar"
-msgstr "Restore"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:718
-msgid "Cierre la tienda antes de proceder con la restauración."
-msgstr "Please close the store before proceeding with the restoration."
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\__init__.py⁩:720
-#, python-brace-format
-msgid "Error al cargar el backup: {}"
-msgstr "Error loading backup: {}"
-
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\addon_manager.py⁩:162
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\addon_manager.py⁩:162
 msgid "El complemento está instalado y activo."
 msgstr "The add-on is installed and active."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\addon_manager.py⁩:163
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\addon_manager.py⁩:163
 msgid "Hay una actualización disponible para este complemento."
 msgstr "An update is available for this add-on."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\addon_manager.py⁩:164
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\addon_manager.py⁩:164
 msgid "Hay una actualización disponible pero no es compatible con su versión de NVDA."
 msgstr "An update is available but it is not compatible with your version of NVDA."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\addon_manager.py⁩:165
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\addon_manager.py⁩:165
 msgid "El complemento está instalado pero deshabilitado."
 msgstr "The add-on is installed but disabled."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\addon_manager.py⁩:166
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\addon_manager.py⁩:166
 msgid "El complemento está pendiente de eliminar. Requiere reiniciar NVDA."
 msgstr "The add-on is pending deletion. Requires restarting NVDA."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\addon_manager.py⁩:167
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\addon_manager.py⁩:167
 msgid "El complemento está instalado pero bloqueado por incompatibilidad con su versión de NVDA."
 msgstr "The add-on is installed but blocked due to incompatibility with your version of NVDA."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\addon_manager.py⁩:168
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\addon_manager.py⁩:168
 msgid "El complemento no es compatible con su versión de NVDA y no está instalado."
 msgstr "The add-on is not compatible with your version of NVDA and is not installed."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\addon_manager.py⁩:169
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\addon_manager.py⁩:169
 msgid "El complemento no está instalado."
 msgstr "The add-on is not installed."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\addon_manager.py⁩:171
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\addon_manager.py⁩:171
 msgid "Estado desconocido."
 msgstr "Unknown status."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\addon_manager.py⁩:174
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\addon_manager.py⁩:174
 msgid "Fuente: Tienda NVDA.ES (comunidad hispana)"
 msgstr "Source: NVDA.ES Store (Hispanic community)"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\addon_manager.py⁩:175
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\addon_manager.py⁩:175
 msgid "Fuente: Tienda Oficial de NVDA"
 msgstr "Source: NVDA Official Store"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\addon_manager.py⁩:176
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\addon_manager.py⁩:176
 msgid "Fuente: Tienda Unificada de Complementos"
 msgstr "Source: Unified Accessories Store"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:79
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:79
 msgid "Servidor comunidad hispanohablante"
 msgstr "Spanish-speaking community server"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:168
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:148
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:167
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:218
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:222
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:226
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:230
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:234
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:277
+msgid "Tienda de Complementos NVDA"
+msgstr "NVDA add-ons Store"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:168
 msgid "15 minutos"
 msgstr "15 minutes"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:169
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:169
 msgid "30 minutos"
 msgstr "30 minutes"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:170
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:170
 msgid "45 minutos"
 msgstr "45 minutes"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:171
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:171
 msgid "1 hora"
 msgstr "1 hour"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:172
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:172
 msgid "12 horas"
 msgstr "12 hours"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:173
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:173
 msgid "1 día"
 msgstr "1 day"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:174
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:174
 msgid "1 semana"
 msgstr "1 week"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:179
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:179
 msgid "Alemán"
 msgstr "German"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:180
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:180
 msgid "Árabe"
 msgstr "Arabic"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:181
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:181
 msgid "Croata"
 msgstr "Croatian"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:182
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:182
 msgid "Español"
 msgstr "Español"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:183
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:183
 msgid "Francés"
 msgstr "French"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:184
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:184
 msgid "Inglés"
 msgstr "English"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:185
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:185
 msgid "Italiano"
 msgstr "Italian"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:186
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:186
 msgid "Polaco"
 msgstr "Polish"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:187
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:187
 msgid "Portugués"
 msgstr "Portuguese"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:188
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:188
 msgid "Ruso"
 msgstr "Russian"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:189
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:189
 msgid "Turco"
-msgstr "Turco"
+msgstr "Turkish"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:190
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:190
 msgid "Ucraniano"
 msgstr "Ukrainian"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:208
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:56
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:230
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\tienda_oficial.py⁩:41
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:208
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:56
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:230
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\tienda_oficial.py⁩:41
 msgid "Todos"
 msgstr "All"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:208
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:56
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:230
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\tienda_oficial.py⁩:41
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\tienda_oficial.py⁩:79
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:208
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:56
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:230
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\tienda_oficial.py⁩:41
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\tienda_oficial.py⁩:79
 msgid "Estable"
 msgstr "Stable"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:208
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:56
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:230
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\tienda_oficial.py⁩:42
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\tienda_oficial.py⁩:79
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:208
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:56
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:230
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\tienda_oficial.py⁩:42
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\tienda_oficial.py⁩:79
 msgid "Beta"
 msgstr "Beta"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:209
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:56
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:230
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\tienda_oficial.py⁩:42
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\tienda_oficial.py⁩:80
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:209
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:56
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:230
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\tienda_oficial.py⁩:42
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\tienda_oficial.py⁩:80
 msgid "Desarrollo"
 msgstr "Dev"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\ajustes.py⁩:209
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\tienda_oficial.py⁩:43
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\tienda_oficial.py⁩:80
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\ajustes.py⁩:209
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\tienda_oficial.py⁩:43
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\tienda_oficial.py⁩:80
 msgid "Externo"
 msgstr "External"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:51
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:121
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:171
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:51
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:121
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:171
 msgid "&Aceptar"
 msgstr "&Accept"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:52
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:117
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:190
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:361
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:42
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:172
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:52
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:117
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:190
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:361
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:42
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:172
 msgid "&Cerrar"
 msgstr "&Close"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:79
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:79
 msgid ""
 "\n"
 "Descarga completada correctamente."
@@ -527,7 +217,7 @@ msgstr ""
 "\n"
 "Download completed successfully."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:84
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:84
 msgid ""
 "\n"
 "Error en la descarga tras varios intentos."
@@ -535,211 +225,212 @@ msgstr ""
 "\n"
 "Download error after several attempts."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:98
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:98
 msgid "Actualizaciones disponibles"
 msgstr "Updates available"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:114
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:353
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:114
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:353
 msgid "&Seleccionar todo"
 msgstr "&Select all"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:115
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:354
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:115
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:354
 msgid "&Deseleccionar todo"
 msgstr "&Deselect all"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:116
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:229
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:156
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:188
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:116
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:229
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:156
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:188
 msgid "&Actualizar"
 msgstr "&Update"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:143
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:143
 msgid "Seleccione al menos una actualización."
 msgstr "Select at least one update."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:143
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\hilos.py⁩:64
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\hilos.py⁩:90
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:143
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\hilos.py⁩:64
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\hilos.py⁩:90
 msgid "Error"
 msgstr "Error"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:167
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:167
 msgid "Actualizando complementos"
 msgstr "Updating add-ons"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:182
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:182
 msgid "Progreso descarga:"
 msgstr "Download progress:"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:184
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:184
 msgid "Progreso total:"
 msgstr "Total progress:"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:189
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:189
 msgid "&Reiniciar NVDA"
 msgstr "&Restart NVDA"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:214
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:214
 #, python-brace-format
 msgid "Descargando: {}"
 msgstr "Downloading: {}"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:251
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:251
 #, python-brace-format
 msgid "Instalando: {}"
 msgstr "Installing: {}"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:269
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:269
 msgid "RESUMEN DE OPERACIÓN:\n"
 msgstr "OPERATION SUMMARY:\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:272
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:272
 #, python-brace-format
 msgid "Instalados con éxito ({}):\n"
 msgstr "Successfully installed ({}):\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:278
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:278
 #, python-brace-format
 msgid "Errores/Fallos ({}):\n"
 msgstr "Errors/Failures ({}):\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:287
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:287
 msgid "No se procesó ningún complemento."
 msgstr "No add-on was processed."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:293
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:293
 msgid "Operación completada. Reinicie NVDA para aplicar cambios."
 msgstr "Operation completed. Restart NVDA to apply changes."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:316
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:100
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:316
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:100
 msgid ""
-"Se han realizado cambios en los complementos que requieren reiniciar NVDA para surtir efecto. ¿Desea reiniciar ahora?"
+"Se han realizado cambios en los complementos que requieren reiniciar NVDA para surtir efecto. ¿Desea reiniciar "
+"ahora?"
 msgstr "Changes have been made to add-ons that require restarting NVDA to take effect. Do you want to restart now?"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:317
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:101
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:317
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:101
 msgid "Reiniciar NVDA"
 msgstr "Restart NVDA"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:328
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:328
 msgid "Restaurar desde Backup"
 msgstr "Restore from Backup"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:338
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:338
 msgid "&Seleccione complementos a restaurar:"
 msgstr "&Select add-ons to restore:"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:344
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:344
 msgid "&Información de la versión encontrada:"
 msgstr "&Version information found:"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:360
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:360
 msgid "&Instalar seleccionados"
 msgstr "&Install selected"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:376
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:376
 msgid "Buscando mejores versiones en los servidores..."
-msgstr "Looking for better versions on the servers..."
+msgstr "Searching better versions on the servers..."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:410
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:410
 msgid "Búsqueda de backup finalizada."
 msgstr "Backup search completed."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:413
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:413
 msgid "Error al procesar el backup"
 msgstr "Error processing backup"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:423
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:423
 msgid "(No encontrado en servidores)"
 msgstr "(Not found on servers)"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:436
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:436
 msgid "Este complemento no se ha encontrado en los servidores actuales."
-msgstr "This add-on has not been found on the current servers."
+msgstr "This add-on has not been found on the current server."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:439
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:439
 msgid "FUENTE: NVDA.ES\n"
 msgstr "SOURCE: NVDA.ES\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:441
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:451
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:292
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:351
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:175
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:210
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:206
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:220
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:256
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:264
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:441
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:451
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:292
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:351
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:175
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:210
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:206
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:220
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:256
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:264
 #, python-brace-format
 msgid "Nombre: {}\n"
 msgstr "Name: {}\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:442
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:452
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:352
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:176
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:211
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:207
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:221
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:257
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:265
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:442
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:452
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:352
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:176
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:211
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:207
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:221
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:257
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:265
 #, python-brace-format
 msgid "ID: {}\n"
 msgstr "ID: {}\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:443
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:453
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:443
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:453
 #, python-brace-format
 msgid "Versión disponible: {}\n"
 msgstr "Available version: {}\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:444
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:294
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:353
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:208
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:444
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:294
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:353
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:208
 #, python-brace-format
 msgid "Autor: {}\n"
 msgstr "Author: {}\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:445
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:455
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:445
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:455
 msgid "Descripción:"
 msgstr "Description:"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:447
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:457
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:184
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:213
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:228
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:447
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:457
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:184
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:213
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:228
 msgid "Sin descripción."
 msgstr "No description."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:449
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:449
 msgid "FUENTE: TIENDA OFICIAL\n"
 msgstr "SOURCE: OFFICIAL STORE\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:454
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:177
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:212
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:222
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:454
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:177
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:212
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:222
 #, python-brace-format
 msgid "Editor: {}\n"
 msgstr "Editor: {}\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:472
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:472
 msgid "Seleccione al menos un complemento."
 msgstr "Select at least one add-on."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:472
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:472
 msgid "Aviso"
 msgstr "Notice"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:499
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:499
 #, python-format
 msgid ""
 "Los siguientes complementos no son compatibles:\n"
@@ -755,230 +446,248 @@ msgstr ""
 "\n"
 "Do you want to try installing them anyway?"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:500
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:446
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:288
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:372
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_actualizaciones.py⁩:500
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:446
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:288
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:372
 msgid "Advertencia"
 msgstr "Warning"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:43
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:43
 msgid "Copiado al portapapeles"
 msgstr "Copied to clipboard"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:70
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:70
 msgid "¿Está seguro de que desea desinstalar este complemento?"
 msgstr "Are you sure you want to uninstall this add-on?"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:71
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:81
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:71
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:81
 msgid "Confirmar"
 msgstr "Confirm"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:77
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:77
 msgid "Este complemento no es compatible con su versión de NVDA. ¿Desea intentar habilitarlo de todos modos?"
 msgstr "This add-on is not compatible with your version of NVDA. Do you want to try enabling it anyway?"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:78
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:78
 msgid "Advertencia de compatibilidad"
 msgstr "Compatibility warning"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:87
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:87
 msgid "Operación realizada con éxito. Algunos cambios requieren reiniciar NVDA."
 msgstr "Operation carried out successfully. Some changes require restarting NVDA."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:124
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:124
 msgid "Habilitar complemento"
 msgstr "Enable add-on"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:127
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:127
 msgid "Deshabilitar complemento"
 msgstr "Disable add-on"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:131
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:131
 msgid "Desinstalar complemento"
 msgstr "Uninstall add-on"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:149
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:139
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:160
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:250
+msgid "Empaquetador de complementos"
+msgstr "Add-ons Packager"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:149
 msgid "Ver documentación"
 msgstr "See documentation"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:23
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_comunes.py⁩:159
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:254
+msgid "Seleccione un directorio para guardar:"
+msgstr "Select a directory to save:"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:23
 msgid "Gestor de servidores de complementos"
 msgstr "Add-on Server Manager"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:27
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:27
 msgid "&Lista de servidores:"
 msgstr "&Server list:"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:35
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:35
 msgid "&Añadir"
 msgstr "&Add"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:36
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:36
 msgid "&Editar"
 msgstr "&Edit"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:37
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:37
 msgid "&Borrar"
 msgstr "&Delete"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:65
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:65
 msgid "El servidor de la comunidad hispanohablante no puede ser editado."
 msgstr "The Spanish-speaking community server cannot be edited."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:78
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:78
 msgid "El servidor de la comunidad hispanohablante no puede ser borrado."
 msgstr "The Spanish-speaking community server cannot be deleted."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:80
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:80
 #, python-brace-format
 msgid "¿Está seguro que desea borrar el servidor: {}?"
 msgstr "Are you sure you want to delete server: {}?"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:109
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:109
 msgid "Añadir servidor"
 msgstr "Add server"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:109
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:109
 msgid "Editar servidor"
 msgstr "Edit server"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:114
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:114
 msgid "&Nombre del servidor:"
 msgstr "&Server name:"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:117
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:117
 msgid "&URL del servidor:"
 msgstr "Server URL:"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:122
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:122
 msgid "&Cancelar"
 msgstr "&Cancel"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:137
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:137
 msgid "El nombre del servidor no puede estar vacío."
 msgstr "The server name cannot be empty."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:141
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:141
 msgid "La URL del servidor no puede estar vacía."
 msgstr "The server URL cannot be empty."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:146
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:146
 msgid "Ya existe un servidor con ese nombre."
 msgstr "A server with that name already exists."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:149
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:149
 msgid "La URL introducida no es válida."
 msgstr "The URL entered is not valid."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:162
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:162
 msgid "Servidor sin complementos"
 msgstr "Server without add-ons"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:167
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:167
 msgid "Seleccione un servidor"
 msgstr "Select a server"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:183
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:183
 msgid "Debe seleccionar un servidor."
 msgstr "You must select a server."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:57
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:50
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:53
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_servidores.py⁩:183
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\hilos.py⁩:80
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\hilos.py⁩:99
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:51
+msgid "Información"
+msgstr "Information"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:57
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:50
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:53
 msgid "&Buscar:"
-msgstr "&Look for:"
+msgstr "&Search:"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:61
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:61
 msgid "B&uscar"
-msgstr "B&uscar"
+msgstr "Se&arch"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:65
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:61
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:64
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:65
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:61
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:64
 msgid "&Lista complementos:"
 msgstr "&List of add-ons:"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:70
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:67
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:70
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:70
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:67
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:70
 msgid "&Acción"
 msgstr "&Action"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:74
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:71
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:74
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:74
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:71
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:74
 msgid "&Información:"
 msgstr "&Information:"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:80
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:231
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:77
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:156
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:80
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:188
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:80
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:231
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:77
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:156
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:80
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:188
 msgid "&Instalar"
 msgstr "& Install"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:81
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:78
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:81
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:81
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:78
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:81
 msgid "&Descargar"
 msgstr "& Download"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:82
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:79
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:82
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:79
 msgid "&Página WEB"
 msgstr "&Homepage"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:83
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:83
 msgid "&Cambiar servidor"
 msgstr "&Change server"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:84
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:80
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:82
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:84
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:80
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:82
 msgid "&Salir"
 msgstr "&Close"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:140
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:140
 msgid " - Todos los complementos"
 msgstr " - All add-ons"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:141
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:141
 msgid " - Complementos API 2026"
 msgstr " - API add-ons 2026"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:142
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:142
 msgid " - Complementos API 2025"
 msgstr " - API add-ons 2025"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:143
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:143
 msgid " - Complementos API 2024"
 msgstr " - API add-ons 2024"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:144
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:144
 msgid " - Complementos API 2023"
 msgstr " - API add-ons 2023"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:145
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:145
 msgid " - Por autor"
 msgstr " - By author"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:146
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:146
 msgid " - Por descargas"
 msgstr " - By downloads"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:187
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:200
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:232
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:138
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:167
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:187
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:200
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:232
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:138
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:167
 msgid "No se encontraron resultados"
 msgstr "No results found"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:217
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:217
 #, python-brace-format
 msgid ""
 "Indicador: {indicator}\n"
@@ -989,57 +698,57 @@ msgstr ""
 "Source: [ES] NVDA.ES Store\n"
 "{explanation}"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:218
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:278
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:344
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:218
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:278
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:344
 msgid "Sin indicador"
 msgstr "Without indicator"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:247
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:262
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:323
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:247
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:262
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:323
 #, python-brace-format
 msgid "Complemento {} de {}"
 msgstr "Complement {} of {}"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:273
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:340
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:164
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:196
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:273
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:340
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:164
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:196
 msgid "Activo"
 msgstr "Asset"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:275
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:342
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:166
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:198
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:275
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:342
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:166
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:198
 msgid "Deshabilitado (incompatible)"
 msgstr "Disabled (incompatible)"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:275
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:166
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:198
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:275
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:166
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:198
 msgid "Habilitado (compatibilidad anulada)"
 msgstr "Enabled (compatibility voided)"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:277
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:344
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:168
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:200
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:277
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:344
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:168
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:200
 msgid "Deshabilitado"
 msgstr "Disabled"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:279
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:279
 msgid "Marcado para eliminar"
 msgstr "Marked for deletion"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:281
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:281
 msgid "Pendiente de instalar"
 msgstr "Pending installation"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:282
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:345
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:169
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:282
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:345
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:169
 msgid ""
 "\n"
 "--- INFORMACIÓN DE INSTALACIÓN LOCAL ---\n"
@@ -1047,67 +756,67 @@ msgstr ""
 "\n"
 "--- LOCAL INSTALLATION INFORMATION ---\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:283
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:283
 #, python-brace-format
 msgid "Estado actual: {}\n"
 msgstr "Current status: {}\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:284
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:284
 #, python-brace-format
 msgid "Versión instalada: {}\n"
 msgstr "Installed version: {}\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:286
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:286
 msgid "AVISO: Cambios pendientes. Reinicie NVDA.\n"
 msgstr "NOTICE: Changes pending. Restart NVDA.\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:288
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:288
 msgid "ADVERTENCIA: Complemento incompatible con este NVDA.\n"
-msgstr "WARNING: Addon incompatible with this NVDA.\\nWARNING: Addon incompatible with this NVDA.\n"
+msgstr "WARNING: Add-on incompatible with this NVDA.\\nWARNING: Addon incompatible with this NVDA.\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:290
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:290
 msgid "RESUMEN DEL COMPLEMENTO\n"
 msgstr "ADDITION SUMMARY\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:293
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:293
 #, python-brace-format
 msgid "ID (Nombre interno): {}\n"
 msgstr "ID (Internal Name): {}\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:295
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:295
 #, python-brace-format
 msgid "Página web: {}\n"
 msgstr "Homepage: {}\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:296
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:296
 #, python-brace-format
 msgid "Desarrollo: {}\n"
 msgstr "Development: {}\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:296
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:296
 msgid "Con soporte"
 msgstr "With support"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:296
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:296
 msgid "Sin soporte"
 msgstr "No support"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:298
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:182
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:211
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:226
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:298
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:182
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:211
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:226
 msgid "DESCRIPCIÓN:"
 msgstr "DESCRIPTION:"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:300
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:300
 msgid "Sin descripción disponible."
 msgstr "No description available."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:301
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:301
 msgid "CANALES DE DESCARGA:"
 msgstr "DOWNLOAD CHANNELS:"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:305
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:305
 #, python-brace-format
 msgid ""
 "Canal: {}\n"
@@ -1122,220 +831,235 @@ msgstr ""
 "Last test: {}\n"
 "Downloads: {}\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:313
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:190
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:234
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:313
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:190
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:234
 msgid "Active la traducción en opciones de la tienda."
 msgstr "Activate translation in store options."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:334
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:207
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:252
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:334
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:207
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:252
 msgid "No se pudo traducir"
 msgstr "Could not translate"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:346
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:170
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:346
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:170
 #, python-brace-format
 msgid "Estado: {}\n"
 msgstr "Status: {}\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:347
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:171
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:178
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:213
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:223
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:347
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:171
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:178
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:213
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:223
 #, python-brace-format
 msgid "Versión: {}\n"
 msgstr "Version: {}\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:349
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:349
 msgid "RESUMEN (TRADUCIDO)\n"
 msgstr "SUMMARY (TRANSLATED)\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:355
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:214
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:258
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:266
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:355
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:214
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:258
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:266
 msgid "DESCRIPCIÓN TRADUCIDA:"
 msgstr "TRANSLATED DESCRIPTION:"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:372
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:372
 msgid "Mostrar todos"
 msgstr "Show all"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:373
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:373
 msgid "API 2026"
 msgstr "API 2026"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:374
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:374
 msgid "API 2025"
 msgstr "API 2025"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:375
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:375
 msgid "API 2024"
 msgstr "API 2024"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:376
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:376
 msgid "API 2023"
 msgstr "API 2023"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:377
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:377
 msgid "Por autor"
 msgstr "By author"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:378
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:378
 msgid "Por descargas"
 msgstr "By downloads"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:379
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:379
 msgid "&Filtros"
-msgstr "&Filters"
+msgstr "&Filter"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:392
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:392
 msgid "Copiar información"
 msgstr "Copy information"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:393
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:393
 msgid "Copiar URL página"
 msgstr "Copy homepage URL"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:395
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:288
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:395
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:288
 msgid "Copiar enlace interno NVDA.ES"
 msgstr "Copy internal link NVDA.ES"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:403
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:405
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:239
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:295
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:297
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:300
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:401
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:486
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:293
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:417
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:638
+#, python-brace-format
+msgid "Canal {}"
+msgstr "Channel {}"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:403
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:405
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:239
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:295
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:297
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:300
 msgid "Copiar enlace de descarga"
 msgstr "Copy download link"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:408
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:408
 msgid "&Copiar"
 msgstr "&Copy"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:416
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:247
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:308
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:416
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:247
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:308
 msgid "&Gestión instalado"
 msgstr "&Management installed"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:443
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:286
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:370
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:443
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:286
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:370
 msgid "Este complemento no es compatible con su versión de NVDA."
 msgstr "This add-on is not compatible with your version of NVDA."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:443
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:286
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:370
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:443
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:286
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:370
 msgid "Incompatible"
 msgstr "Incompatible"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:446
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:288
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:372
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:446
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:288
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:372
 msgid "Este complemento no es compatible. ¿Desea intentar instalarlo de todos modos?"
 msgstr "This add-on is not supported. Do you want to try installing it anyway?"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:454
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:292
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:377
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:454
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:292
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:377
 #, python-format
 msgid "Preparando instalación de %s..."
 msgstr "Preparing to install %s..."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:458
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:297
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:385
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:458
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:297
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:385
 #, python-format
 msgid "Instalación de %s completada."
 msgstr "%s installation completed."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:459
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:459
 msgid "Instalación completada. ¿Desea reiniciar NVDA ahora?"
 msgstr "Installation completed. Do you want to restart NVDA now?"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:459
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:298
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:386
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:459
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:298
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:386
 msgid "Reiniciar"
 msgstr "Restart"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:492
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:318
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:406
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:492
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:318
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:406
 msgid "Ya hay una descarga en progreso"
 msgstr "A download is already in progress"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:506
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:321
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:422
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:453
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:506
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:321
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:422
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:453
 msgid "Complemento de NVDA (*.nvda-addon)|*.nvda-addon"
-msgstr "NVDA add-on (*.nvda-add-on)|*.nvda-add-on"
+msgstr "NVDA add-on (*.nvda-addon)|*.nvda-addon"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:507
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:322
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:423
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:454
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:507
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:322
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:423
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:454
 msgid "Guardar en..."
-msgstr "Save to..."
+msgstr "Save as..."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:519
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:328
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:429
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:460
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_es.py⁩:519
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:328
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:429
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:460
 #, python-format
 msgid "Descargando %s..."
 msgstr "Downloading %s..."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:55
-msgid "&Canal:"
-msgstr "&Canal:"
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:34
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:151
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:310
+msgid "Tienda Oficial NVDA"
+msgstr "NVDA Official Store"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:173
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:55
+msgid "&Canal:"
+msgstr "&Channel:"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:173
 msgid "RESUMEN DEL COMPLEMENTO (OFICIAL)\n"
 msgstr "SUMMARY OF THE SUPPLEMENT (OFFICIAL)n\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:179
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:224
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:179
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:224
 #, python-brace-format
 msgid "Canal: {}\n"
-msgstr "Canal: {}\n"
+msgstr "Channel: {}\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:180
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:180
 #, python-brace-format
 msgid "Compatible: {}\n"
 msgstr "Compatible: {}\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:180
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:180
 msgid "Sí"
-msgstr "Yeah"
+msgstr "Yes"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:180
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:180
 msgid "No"
 msgstr "No"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:208
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:262
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:208
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:262
 msgid "RESUMEN (TRADUCIDO - OFICIAL)\n"
 msgstr "SUMMARY (TRANSLATED - OFFICIAL)\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:233
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:233
 msgid "&Canales"
-msgstr "&Canales"
+msgstr "&Channels"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:238
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:283
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:238
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:283
 msgid "Copiar ficha"
 msgstr "Copy form"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:278
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:278
 #, python-brace-format
 msgid ""
 "Indicador: {indicator}\n"
@@ -1346,39 +1070,39 @@ msgstr ""
 "Source: [OF] NVDA Official Store\\n\n"
 "{explanation}"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:298
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:386
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:298
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:386
 msgid "¿Desea reiniciar NVDA ahora?"
 msgstr "Do you want to restart NVDA now?"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:302
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:335
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:390
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:436
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:302
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_oficial.py⁩:335
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:390
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:436
 msgid "Error: El archivo descargado está corrupto"
 msgstr "Error: Downloaded file is corrupt"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:36
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:36
 msgid "Tienda Unificada de Complementos"
 msgstr "Unified Accessories Store"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:58
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:58
 msgid "&Fuente:"
-msgstr "&Fuente:"
+msgstr "&Source:"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:59
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:59
 msgid "Todas las fuentes"
 msgstr "All sources"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:59
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:59
 msgid "NVDA.ES"
 msgstr "NVDA.ES Store"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:59
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:59
 msgid "Tienda Oficial"
 msgstr "Official Store"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:201
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:201
 #, python-brace-format
 msgid ""
 "\n"
@@ -1387,37 +1111,37 @@ msgstr ""
 "\n"
 "LOCAL STATE: {} (v{})\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:204
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:204
 msgid "RESUMEN DEL COMPLEMENTO [NVDA.ES]\n"
 msgstr "SUMMARY OF THE COMPLEMENT [NVDA.ES]\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:209
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:209
 #, python-brace-format
 msgid "Web: {}\n"
 msgstr "Web: {}\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:209
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:209
 msgid "No disponible"
 msgstr "Not available"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:214
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:214
 msgid "ENLACES:"
 msgstr "LINKS:"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:216
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:216
 #, python-brace-format
 msgid "Canal {}: v{} (Min NVDA: {})\n"
-msgstr "Canal {}: v{} (Min NVDA: {})\n"
+msgstr "Channel {}: v{} (Min NVDA: {})\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:218
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:218
 msgid "RESUMEN DEL COMPLEMENTO [OFICIAL]\n"
 msgstr "SUMMARY OF THE ADDITION [OFFICIAL]\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:254
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:254
 msgid "RESUMEN (TRADUCIDO - NVDA.ES)\n"
 msgstr "SUMMARY (TRANSLATED - NVDA.ES)\n"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:344
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\dialogos_tienda_unificada.py⁩:344
 #, python-brace-format
 msgid ""
 "Indicador: {indicator}\n"
@@ -1428,33 +1152,340 @@ msgstr ""
 "Source: {source}\\n\n"
 "{explanation}"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\empaquetador.py⁩:46
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\empaquetador.py⁩:46
 #, python-brace-format
 msgid "Complemento empaquetado correctamente en: {}"
-msgstr "Addon packaged correctly in: {}"
+msgstr "Add-on packaged correctly in: {}"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\empaquetador.py⁩:49
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\empaquetador.py⁩:49
 #, python-brace-format
 msgid "Error al empaquetar el complemento: {}"
 msgstr "Error packaging add-on: {}"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\hilos.py⁩:63
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\hilos.py⁩:63
 msgid "No se pudo conectar al servidor y no hay datos en caché. ¿Desea intentar cambiar de servidor?"
 msgstr "Could not connect to the server and there is no cached data. Do you want to try changing servers?"
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\hilos.py⁩:69
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\hilos.py⁩:69
 msgid ""
-"Trabajando en modo OFFLINE. Los datos mostrados pueden estar desactualizados. Algunas descargas podrían no funcionar."
+"Trabajando en modo OFFLINE. Los datos mostrados pueden estar desactualizados. Algunas descargas podrían no "
+"funcionar."
 msgstr "Working in OFFLINE mode. The data displayed may be out of date. Some downloads may not work."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\hilos.py⁩:80
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\hilos.py⁩:80
 msgid "No hay actualizaciones disponibles."
 msgstr "No updates available."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\hilos.py⁩:90
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\hilos.py⁩:90
 msgid "No se pudieron obtener complementos de la tienda oficial."
 msgstr "Could not get add-ons from the official store."
 
-#: ⁨C:\Users\Hoàng Long\AppData\Roaming\nvda\addons\TiendaNVDA\globalPlugins\TiendaNVDA\hilos.py⁩:99
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\hilos.py⁩:99
 msgid "No hay actualizaciones oficiales disponibles."
 msgstr "No official updates available."
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:50
+msgid "Necesita reiniciar NVDA para aplicar las actualizaciones."
+msgstr "You need to restart NVDA to apply the updates."
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:77
+#, python-brace-format
+msgid "Se encontraron {} actualizaciones."
+msgstr "{} updates found."
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:77
+msgid "Se encontró una actualización."
+msgstr "An update was found."
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:80
+#, python-brace-format
+msgid ""
+"\n"
+"- NVDA.ES ({}): {}"
+msgstr ""
+"\n"
+"- NVDA.ES ({}): {}"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:82
+#, python-brace-format
+msgid ""
+"\n"
+"- Tienda Oficial ({}): {}"
+msgstr ""
+"\n"
+"- Official Store ({}): {}"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:83
+msgid ""
+"\n"
+"\n"
+"Ejecute Buscar actualizaciones de complementos."
+msgstr ""
+"\n"
+"\n"
+"Run Check for add-on updates."
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:84
+msgid "Tienda NVDA: Actualizaciones"
+msgstr "NVDA Store: Updates"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:123
+msgid "No se pudieron cargar las librerías necesarias para la Tienda"
+msgstr "The necessary libraries for the Store could not be loaded"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:139
+msgid "Listado de complementos NVDA.ES"
+msgstr "List of NVDA.ES add-ons"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:141
+msgid "Buscar actualizaciones NVDA.ES"
+msgstr "Check for NVDA.ES add-ons updates"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:143
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:286
+msgid "Tienda NVDA.ES"
+msgstr "NVDA.ES Store"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:147
+msgid "Listado de complementos oficiales"
+msgstr "List of official add-ons"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:149
+msgid "Buscar actualizaciones oficiales"
+msgstr "Check for official add-ons updates"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:155
+msgid "Tienda Unificada (Todas las fuentes)"
+msgstr "Unified Store (All sources)"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:164
+msgid "Documentación del complemento"
+msgstr "Add-ons Documentation"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:169
+msgid "Inicio del complemento cancelado."
+msgstr "Add-on start canceled."
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:214
+msgid "Ya hay una instancia de la Tienda NVDA abierta."
+msgstr "An instance of the NVDA.ES Store is already open."
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:218
+msgid "Muestra la ventana con todos los complementos de NVDA.ES"
+msgstr "Shows the window with all NVDA.ES add-ons"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:222
+msgid "Busca actualizaciones de los complementos instalados en NVDA.ES"
+msgstr "Check for updates to installed add-ons on NVDA.ES"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:226
+msgid "Muestra la ventana con todos los complementos de la tienda oficial"
+msgstr "Shows the window with all the add-ons from the official store"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:230
+msgid "Busca actualizaciones de los complementos oficiales"
+msgstr "Check for official add-on updates"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:234
+msgid "Muestra la tienda unificada con todas las fuentes de complementos"
+msgstr "Show the unified store with all add-on sources"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:247
+msgid "No hay complementos instalados."
+msgstr "There are no add-ons installed."
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:250
+msgid "Seleccione un complemento para empaquetar:"
+msgstr "Select a add-on to package:"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:268
+msgid ""
+"El complemento falló al iniciar NVDA.\n"
+"Reinice NVDA para intentar solucionar el problema."
+msgstr ""
+"The add-on failed when starting NVDA.\n"
+"Restart NVDA to try to fix the problem."
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:292
+msgid "Seleccione un servidor de complementos"
+msgstr "Select a add-on server"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:300
+msgid "&Gestionar Servidores de complementos"
+msgstr "&Manage add-on Servers"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:316
+msgid "Habilitar tienda oficial de NVDA"
+msgstr "Enable official NVDA store"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:321
+msgid "Permitir complementos incompatibles de la tienda oficial"
+msgstr "Allow incompatible add-ons from the official store"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:331
+msgid "Actualizaciones"
+msgstr "Updates"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:337
+msgid "Activar comprobación automática de actualizaciones"
+msgstr "Activate automatic checking for updates"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:344
+msgid "Tiempo para comprobar actualizaciones:"
+msgstr "Time to check for updates:"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:356
+msgid "Incluir actualizaciones de la tienda oficial"
+msgstr "Include updates from the official store"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:366
+msgid "Traducción"
+msgstr "Translation"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:372
+msgid "Activar traductor para descripciones"
+msgstr "Activate translator for descriptions"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:379
+msgid "Idioma para traducir descripciones:"
+msgstr "Language to translate descriptions:"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:396
+msgid "Opciones Generales"
+msgstr "General Options"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:402
+msgid "Ordenar complementos alfabéticamente"
+msgstr "Sort add-ons alphabetically"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:407
+msgid "Instalar complementos después de descargar"
+msgstr "Install add-on after downloading"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:412
+msgid "Instalar en silencio (pide reiniciar al finalizar)"
+msgstr "Install silently (asks to reboot upon completion)"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:417
+msgid "Habilitar caché de servidores (Mejora la velocidad de carga)"
+msgstr "Enable server cache (Improves loading speed)"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:424
+msgid "Actualizar caché cada:"
+msgstr "Update cache every:"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:436
+msgid "Usar caché para traducciones (Mejora el rendimiento)"
+msgstr "Use cache for translations (Improves performance)"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:441
+msgid "Habilitar modo offline (Caché de listas de la tienda)"
+msgstr "Enable offline mode (Store List Cache)"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:446
+msgid "&Crear Backup de complementos"
+msgstr "&Create add-on Backup"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:447
+msgid "&Restaurar desde Backup"
+msgstr "&Restore from Backup"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:461
+msgid "Complementos instalados que hay en el servidor:"
+msgstr "Installed add-ons on the server:"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:476
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:581
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:627
+msgid "No se pudo tener acceso al servidor"
+msgstr "Could not access server"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:480
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:625
+msgid "Sin complementos compatibles"
+msgstr "No supported add-ons"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:490
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:640
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:653
+msgid "Descartar actualizaciones"
+msgstr "Discard updates"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:670
+msgid ""
+"Ya hay una instancia de la Tienda NVDA abierta.\n"
+"\n"
+"Para gestionar los servidores es necesario que la Tienda este cerrada."
+msgstr ""
+"An instance of the NVDA.ES Store is already open.\n"
+"\n"
+"To manage the servers it is necessary that the Store is closed."
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:691
+msgid "Guardar copia de seguridad de complementos"
+msgstr "Save add-on backup"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:702
+#, python-brace-format
+msgid "Copia de seguridad guardada con éxito en: {}"
+msgstr "Backup successfully saved to: {}"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:704
+#, python-brace-format
+msgid "Error al crear la copia de seguridad: {}"
+msgstr "Error creating backup: {}"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:709
+msgid "Seleccionar archivo de copia de seguridad"
+msgstr "Select backup file"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:723
+msgid "El archivo seleccionado no es una copia de seguridad válida."
+msgstr "The selected file is not a valid backup."
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:726
+msgid ""
+"¿Desea restaurar los complementos desde el archivo seleccionado? Esto abrirá el asistente de instalación por "
+"lotes."
+msgstr "Do you want to restore the add-ons from the selected file? This will open the batch installation wizard."
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:727
+msgid "Restaurar"
+msgstr "Restore"
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:735
+msgid "Cierre la tienda antes de proceder con la restauración."
+msgstr "Please close the store before proceeding with the restoration."
+
+#: ⁨D:\wfo\Software\Tienda NVDA.ES\Tienda-para-NVDA\addon\globalPlugins\TiendaNVDA\__init__.py⁩:737
+#, python-brace-format
+msgid "Error al cargar el backup: {}"
+msgstr "Error loading backup: {}"
+
+#: buildVars.py:21
+msgid "Tienda de Complementos para NVDA"
+msgstr "NVDA Es Store"
+
+#: buildVars.py:24
+msgid ""
+"Tienda Unificada de Complementos para NVDA.\n"
+"Integra la tienda de NVDA.ES y la tienda oficial de NV Access en una única interfaz.\n"
+"Características: indicadores de estado, gestión local (deshabilitar/eliminar), backup/restauración,\n"
+"modo offline, traducción con caché, reintentos de descarga, comprobación de dependencias\n"
+"y empaquetador de complementos."
+msgstr ""
+"Unified Plugin Store for NVDA.\n"
+"Integrates the NVDA.ES store and the official NV Access store in a single interface.\n"
+"Features: status indicators, local management (disable/delete), backup/restore,\n"
+"offline mode, cached translation, download retries, dependency checking\n"
+"and plugin packager."
+
+#: buildVars.py:33
+msgid ""
+"*Agregado un actualizador silencioso de idiomas del complemento (en fase beta).\n"
+"* Agregado idioma ruso (Valentín N. Kupriyanov).\n"
+"* Agregado idioma turco (Umut Korkmaz)."
+msgstr ""
+"*Added a silent plugin language updater (in beta).\n"
+"* Added Russian language (Valentín N. Kupriyanov).\n"
+"* Added Turkish language (Umut Korkmaz)."
